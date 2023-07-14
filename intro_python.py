@@ -1,5 +1,7 @@
-# calculadora, + - * /
-
+"""
+Operadores, +, -, *, /(esta te devuelve el resultado en decimal) ,
+ // (te devuelve la division en entero) , ** (es exponente)
+"""
 print("Ingrese el primer numero")
 a = int(input())
 print("Ingrese otro número")
